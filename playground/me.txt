@@ -1,5 +1,0 @@
-{{#user}}
-Name: Shivam Nanote
-Skills: HTML, CSS, JS.
-Email: shivamnanote4@gmail.com
-{{/user}}
